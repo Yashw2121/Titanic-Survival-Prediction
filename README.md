@@ -59,7 +59,7 @@ The best-performing model is selected based on the evaluation metrics to ensure 
 
 Clone this repository:
 
-git clone https://github.com/Yashw2121/Titanic_Survival_Prediction
+git clone https://github.com/Yashw2121/Titanic-Survival-Prediction
 cd titanic_survival_prediction
 
 Install dependencies:
