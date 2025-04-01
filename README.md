@@ -24,20 +24,16 @@ Embarked (Port of embarkation: C, Q, S)
 
 # Preprocessing Steps
 
-Handling Missing Values:
+Handling Missing Values
+
+Encoding Categorical Variables
+
+Feature Scaling
+
+Splitting Data
 
 
-Encoding Categorical Variables:
-
-
-Feature Scaling:
-
-
-
-Splitting Data:
-
-
-#Model Selection
+# Model Selection
 
 We implemented Logistic Regression model and evaluated model performance:
 
