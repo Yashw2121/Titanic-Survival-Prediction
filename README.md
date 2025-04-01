@@ -1,8 +1,8 @@
-##Titanic Survival Prediction
+## Titanic Survival Prediction
 
 This repository contains a machine learning model that predicts whether a passenger survived the Titanic disaster based on various features such as age, gender, ticket class, fare, and cabin information.
 
-#Dataset
+# Dataset
 
 The dataset includes the following features:
 
@@ -22,7 +22,7 @@ Cabin (Cabin number, if available)
 
 Embarked (Port of embarkation: C, Q, S)
 
-#Preprocessing Steps
+# Preprocessing Steps
 
 Handling Missing Values:
 
@@ -66,7 +66,7 @@ Confusion Matrix
 
 The best-performing model is selected based on the evaluation metrics to ensure strong survival prediction accuracy.
 
-#How to Run
+# How to Run
 
 Clone this repository:
 
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 Run the notebook or Python script to train and evaluate the model.
 
-#Contributors
+# Contributors
 
 Yash Waghmare
 
