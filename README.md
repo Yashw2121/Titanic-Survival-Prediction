@@ -26,23 +26,16 @@ Embarked (Port of embarkation: C, Q, S)
 
 Handling Missing Values:
 
-Fill missing Age values using the median.
-
-Fill missing Embarked values with the mode.
-
-Drop the Cabin column due to excessive missing values.
 
 Encoding Categorical Variables:
 
-Convert Sex and Embarked into numerical values using Label Encoding.
 
 Feature Scaling:
 
-Normalize numerical features (Age, Fare) using StandardScaler.
+
 
 Splitting Data:
 
-Split the dataset into training (80%) and testing (20%) sets.
 
 #Model Selection
 
@@ -70,7 +63,7 @@ The best-performing model is selected based on the evaluation metrics to ensure 
 
 Clone this repository:
 
-git clone https://github.com/Yashw2121/titanic_survival_prediction.git
+git clone https://github.com/Yashw2121/Titanic_Survival_Prediction
 cd titanic_survival_prediction
 
 Install dependencies:
@@ -79,7 +72,7 @@ pip install -r requirements.txt
 
 Run the notebook or Python script to train and evaluate the model.
 
-# Contributors
+# Contributor
 
 Yash Waghmare
 
