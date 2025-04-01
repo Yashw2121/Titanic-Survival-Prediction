@@ -66,7 +66,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Run the notebook or Python script to train and evaluate the model.
+Run the notebook to train and evaluate the model.
 
 ## Contributor
 
